@@ -43,7 +43,7 @@
 
 <br>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rawalprashant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rawalprashant" /></a><a href="https://ko-fi.com/rawalprashant"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rawalprashant" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/rawalprashant"> <img align="left" src="https://gtcdn.b-cdn.net/wp-content/uploads/2021/12/download-assets-2.svg" height="60" width="210" alt="rawalprashant" /></a><a href="https://ko-fi.com/rawalprashant"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rawalprashant" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawalprashant&show_icons=true&locale=en" alt="rawalprashant" /></p>
 <br>
